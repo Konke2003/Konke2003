@@ -1,3 +1,4 @@
+![Konke Cele - Technical Writer](Konke2003/banner.png)
 ## Hi, I’m Konke 👋🏽
 
 I’m a technical writer and business intelligence enthusiast who enjoys turning complex systems, data, and tools into clear, usable documentation.
