@@ -38,7 +38,7 @@ I’m a technical writer who enjoys translating complex systems and data into do
 
 ## 🌍 Find me around the web
 - LinkedIn: https://www.linkedin.com/in/konke-c-54a7131aa/
-- Email: konkepenelopecele@fmail.com
+- Email: konkepenelopecele@gmail.com
 
 <!--
 **Konke2003/Konke2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
